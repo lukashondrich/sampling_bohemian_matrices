@@ -3,7 +3,7 @@
 
 This project explores the structure and spectral behavior of **Bohemian matrices** — matrices with bounded integer (or otherwise simple) entries — and visualizes how their eigenvalues evolve under interpolation and random perturbation.
 
-The result is a set of beautiful, structure-rich visualizations that combine linear algebra, randomness, and aesthetics.
+The result is a set of beautiful, structure-rich visualizations that combine linear algebra, randomness, and look nice.
 
 ---
 
