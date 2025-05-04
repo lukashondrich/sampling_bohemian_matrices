@@ -18,7 +18,7 @@ The result is a set of beautiful, structure-rich visualizations that combine lin
 
 ## 📸 Example Output
 
-![Eigenvalue ring cloud](output/frame_005.png)
+![Eigenvalue ring cloud](output/frame_001.png)
 
 ---
 
