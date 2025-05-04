@@ -17,7 +17,6 @@ def interpolate_matrices(matrix_0, matrix_1, alpha):
     interpolated_matrix[3, 3] = t2
     return interpolated_matrix
 
-# ... [rest of the code remains unchanged]
 
 
 def plot_eigenvalues(eigenvalues_list, title):
