@@ -18,6 +18,11 @@ venv/
 /data/
 /output/
 
+# except: output/frame_001.png
+!/output/frame_001.png
+
+
+
 # Jupyter Notebook checkpoints (if used)
 .ipynb_checkpoints/
 
